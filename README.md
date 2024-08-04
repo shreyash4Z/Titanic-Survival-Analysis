@@ -52,5 +52,5 @@ The dataset used in this project contains information about the passengers, incl
     ```bash
     jupyter notebook titanic_analysis.ipynb
 ## Results
-- **Key Insights: Summary of findings related to survival rates based on different features.
-- **Visualization: Plots and charts illustrating various aspects of the data.
+- Key Insights: Summary of findings related to survival rates based on different features.
+- Visualization: Plots and charts illustrating various aspects of the data.
